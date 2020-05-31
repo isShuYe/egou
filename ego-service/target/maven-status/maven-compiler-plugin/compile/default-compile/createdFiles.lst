@@ -1,0 +1,9 @@
+com\ego\provider\service\RegisterService.class
+com\ego\provider\service\ContentService.class
+com\ego\provider\service\ItemParamService.class
+com\ego\provider\service\ItemCatService.class
+com\ego\provider\service\ContentCategoryService.class
+com\ego\provider\service\ItemDescService.class
+com\ego\provider\service\ParamItemService.class
+com\ego\provider\service\OrderItemService.class
+com\ego\provider\service\ItemService.class

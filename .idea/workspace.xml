@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a43cfc4-7769-4870-8051-c0fd352c30e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\nexus\repository" />
+        <option name="userSettingsFile" value="H:\nexus\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ahI7oWYYyled9ObbWQLhQWC91T" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ego-order/src/main/webapp/WEB-INF/jsp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\ego\ego-parent\ego-order\src\main\webapp\WEB-INF\jsp" />
+      <recent name="H:\ego\ego-parent\ego-order\src\main\webapp\WEB-INF" />
+      <recent name="H:\ego\ego-parent\ego-order\src\main\resources" />
+      <recent name="H:\ego\ego-parent\ego-item\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean tomcat7:run" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ego.test.Test" />
+      <module name="ego-service-impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ego.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="75" key="#Closure_Linter" timestamp="1587268465144">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="75" key="#Closure_Linter/0.0.1536.834@0.0.1536.834" timestamp="1587268465144" />
+    <state x="425" y="75" key="#Inspections" timestamp="1587268848577">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="75" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1587268848577" />
+    <state x="425" y="75" key="#JSCS" timestamp="1587268458753">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="75" key="#JSCS/0.0.1536.834@0.0.1536.834" timestamp="1587268458753" />
+    <state x="425" y="75" key="#JSHint" timestamp="1587268530908">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="75" key="#JSHint/0.0.1536.834@0.0.1536.834" timestamp="1587268530908" />
+    <state x="425" y="75" key="#JSLint" timestamp="1587268523873">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="75" key="#JSLint/0.0.1536.834@0.0.1536.834" timestamp="1587268523873" />
+    <state x="423" y="70" key="#Project_Structure" timestamp="1587181859828">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="423" y="70" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1587181859828" />
+    <state x="425" y="75" key="#Stylelint" timestamp="1587268813170">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="75" key="#Stylelint/0.0.1536.834@0.0.1536.834" timestamp="1587268813170" />
+    <state x="285" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587201622734">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="285" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1587201622734" />
+    <state x="638" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1587485026672">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="638" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1587485026672" />
+    <state x="527" y="345" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587461371657">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="527" y="345" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1587461371657" />
+    <state x="559" y="281" width="418" height="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587485857753">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="559" y="281" width="418" height="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1587485857753" />
+    <state x="635" y="305" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1587461362273">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="635" y="305" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.834@0.0.1536.834" timestamp="1587461362273" />
+    <state x="575" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587462184809">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="575" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1587462184809" />
+    <state width="1489" height="239" key="GridCell.Tab.0.bottom" timestamp="1588144657727">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1489" height="239" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588144657727" />
+    <state width="1489" height="239" key="GridCell.Tab.0.center" timestamp="1588144657727">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1489" height="239" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588144657727" />
+    <state width="1489" height="239" key="GridCell.Tab.0.left" timestamp="1588144657727">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1489" height="239" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588144657727" />
+    <state width="1489" height="239" key="GridCell.Tab.0.right" timestamp="1588144657727">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1489" height="239" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588144657727" />
+    <state x="474" y="0" key="SettingsEditor" timestamp="1587214396981">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="474" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1587214396981" />
+    <state x="484" y="122" key="new project wizard" timestamp="1587440291549">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="484" y="122" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1587440291549" />
+    <state x="486" y="186" width="672" height="677" key="run.anything.popup" timestamp="1588144430538">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="486" y="186" width="672" height="677" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1588144430538" />
+    <state x="493" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1587479058495">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="493" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1587479058495" />
+    <state x="477" y="98" key="spring file set editor" timestamp="1587181858671">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="477" y="98" key="spring file set editor/0.0.1536.834@0.0.1536.834" timestamp="1587181858671" />
+  </component>
+</project>

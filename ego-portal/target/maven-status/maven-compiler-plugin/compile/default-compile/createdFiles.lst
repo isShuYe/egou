@@ -1,0 +1,7 @@
+com\ego\portal\controller\PortalCatController.class
+com\ego\portal\service\PortalCatService.class
+com\ego\page\controller\PageController.class
+com\ego\portal\service\impl\PortalContentServciceImpl.class
+com\ego\portal\service\impl\PortalCatServiceImpl.class
+com\ego\portal\service\PortalContentServcice.class
+com\ego\portal\controller\PortalContentController.class

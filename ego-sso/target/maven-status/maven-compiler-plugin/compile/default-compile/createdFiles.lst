@@ -1,0 +1,4 @@
+com\ego\page\controller\PageController.class
+com\ego\sso\controller\RegisterController.class
+com\ego\sso\service\impl\SsoRegisterServiceImpl.class
+com\ego\sso\service\SsoRegisterService.class

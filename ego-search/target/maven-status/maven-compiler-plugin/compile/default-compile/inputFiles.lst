@@ -1,0 +1,10 @@
+H:\ego\ego-parent\ego-search\src\main\java\com\ego\search\service\ItemSearchService.java
+H:\ego\ego-parent\ego-search\src\main\java\com\ego\entity\SearchResult.java
+H:\ego\ego-parent\ego-search\src\main\java\com\ego\page\controller\PageController.java
+H:\ego\ego-parent\ego-search\src\main\java\com\ego\search\dao\impl\SearchDaoImpl.java
+H:\ego\ego-parent\ego-search\src\main\java\com\ego\search\service\impl\ItemSearchServiceImpl.java
+H:\ego\ego-parent\ego-search\src\main\java\com\ego\search\service\impl\TbItemSearchServiceImpl.java
+H:\ego\ego-parent\ego-search\src\main\java\com\ego\search\controller\SolrController.java
+H:\ego\ego-parent\ego-search\src\main\java\com\ego\search\dao\SearchDao.java
+H:\ego\ego-parent\ego-search\src\main\java\com\ego\search\service\TbItemSearchService.java
+H:\ego\ego-parent\ego-search\src\main\java\com\ego\search\controller\TbItemSearchController.java

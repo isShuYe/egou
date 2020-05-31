@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context 
+		http://www.springframework.org/schema/context/spring-context.xsd
+		http://code.alibabatech.com/schema/dubbo 
+		http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <import resource="../../applicationContext-dao.xml"/>
+    <import resource="../../applicationContext-service.xml"/>
+    <import resource="../../applicationContext-trans.xml"/>
+
+	<dubbo:application name="dubbo-provider"/>
+	
+	<dubbo:registry address="192.168.159.129:2181,192.168.159.129:2182,192.168.159.129:2183" protocol="zookeeper"></dubbo:registry>
+	
+	<dubbo:protocol name="dubbo" port="20880" payload="83886080"></dubbo:protocol>
+	
+<!--商品服务-->
+    <dubbo:service interface="com.ego.provider.service.ItemService" ref="itemServiceImpl"></dubbo:service>
+    <bean id="itemServiceImpl" class="com.ego.provider.service.impl.ItemServiceImpl"></bean>
+<!--商品类目服务-->
+    <dubbo:service interface="com.ego.provider.service.ItemCatService" ref="itemCatServiceImpl"></dubbo:service>
+    <bean id="itemCatServiceImpl" class="com.ego.provider.service.impl.ItemCatServiceImpl"></bean>
+<!--商品描述内容服务-->
+    <dubbo:service interface="com.ego.provider.service.ItemDescService" ref="itemDescServiceImpl"></dubbo:service>
+    <bean id="itemDescServiceImpl" class="com.ego.provider.service.impl.ItemDescServiceImpl"></bean>
+<!--商品规格服务-->
+    <dubbo:service interface="com.ego.provider.service.ItemParamService" ref="itemParamServiceImpl"></dubbo:service>
+    <bean id="itemParamServiceImpl" class="com.ego.provider.service.impl.ItemParamServiceImpl"></bean>
+<!--商品具体的规格参数服务-->
+    <dubbo:service interface="com.ego.provider.service.ParamItemService" ref="paramItemServiceImpl"></dubbo:service>
+    <bean id="paramItemServiceImpl" class="com.ego.provider.service.impl.ParamItemServiceImpl"></bean>
+<!--类目内容管理服务-->
+    <dubbo:service interface="com.ego.provider.service.ContentCategoryService" ref="contentCategoryServiceImpl"></dubbo:service>
+    <bean id="contentCategoryServiceImpl" class="com.ego.provider.service.impl.ContentCategoryServiceImpl"></bean>
+<!--类目分类管理服务-->
+    <dubbo:service interface="com.ego.provider.service.ContentService" ref="contentServiceImpl"></dubbo:service>
+    <bean id="contentServiceImpl" class="com.ego.provider.service.impl.ContentServiceImpl"></bean>
+<!--用户注册服务-->
+    <dubbo:service interface="com.ego.provider.service.RegisterService" ref="registerServiceImpl"></dubbo:service>
+    <bean id="registerServiceImpl" class="com.ego.provider.service.impl.RegisterServiceImpl"></bean>
+    <!--订单服务-->
+    <dubbo:service interface="com.ego.provider.service.OrderItemService" ref="orderServiceImpl"></dubbo:service>
+    <bean id="orderServiceImpl" class="com.ego.provider.service.impl.OrderServiceImpl"></bean>
+</beans>

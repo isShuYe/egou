@@ -1,0 +1,10 @@
+com\ego\search\service\impl\TbItemSearchServiceImpl.class
+com\ego\search\controller\TbItemSearchController.class
+com\ego\search\service\impl\ItemSearchServiceImpl.class
+com\ego\search\service\ItemSearchService.class
+com\ego\search\dao\impl\SearchDaoImpl.class
+com\ego\page\controller\PageController.class
+com\ego\search\controller\SolrController.class
+com\ego\search\service\TbItemSearchService.class
+com\ego\search\dao\SearchDao.class
+com\ego\entity\SearchResult.class
